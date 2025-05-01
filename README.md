@@ -32,11 +32,11 @@ O projeto foi feito em dupla, mas as etapas aqui relacionadas foram realizadas *
 
 #### 1. HIPÓTESES levantadas:
 
-a. Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em número de streams no Spotify;
-b. As músicas mais populares no Spotify também têm desempenho semelhante em outras plataformas (como Deezer);
-c. A presença de uma música em mais playlists está correlacionada com mais streams;
-d. Artistas com mais músicas no Spotify têm mais streams;
-e. As características da música influenciam o sucesso em streams no Spotify.
+  a. Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify;  
+  b. As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer;  
+  c. A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams;  
+  d. Artistas com um maior número de músicas no Spotify têm mais streams;  
+  e. As características da música influenciam o sucesso em termos de número de streams no Spotify.
 
 #### 2. Importação e TRATAMENTO do *dataset* disponibilizado:
 
@@ -66,7 +66,7 @@ e. As características da música influenciam o sucesso em streams no Spotify.
 | 2 | in_spotify_charts / in_deezer_charts | 0.6002 |
 | 3 | streams_limpo / in_spotify_playlists | 0.7898 |
 | 4 | qtd_musicas / total_streams | 0.7809 ⚠️ Refutado pelo Python |
-| 5 | múltiplas variáveis / streams_limpo |  
+| 5 | múltiplas variáveis / streams_limpo |
 - bpm: -0.0024  
 - danceability: -0.1054  
 - valence: -0.0408  
