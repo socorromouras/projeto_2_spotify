@@ -151,4 +151,5 @@ O projeto foi feito em dupla, mas as etapas aqui relacionadas foram realizadas *
 - **Google Colab (Teste de Significância)**: [Ver Link](https://colab.research.google.com/drive/1XLzgvzh0SO7Mvn0XJlapnwa7UW3j7ya0?usp=sharing)  
 - **Google Colab (Marco Adicional)**: [Ver Link](https://colab.research.google.com/drive/1G0ZyA8T4G7JbCJwy7Xuiuv5Gu8SyuPV_?usp=sharing)  
 - **Documentação**: [Ver Link](https://docs.google.com/document/d/1zXoxDQBZqJE0NengCMKP9SHTcl3ToW3UjcRQ78qkkT4/edit?usp=sharing)
+- **Ficha Técnica - Notion/Completa**: [Ver Link](https://www.notion.so/PROJETO-2-Spotify-1e482ef86d02802ead13ff56068c6aa5?pvs=4)
 
